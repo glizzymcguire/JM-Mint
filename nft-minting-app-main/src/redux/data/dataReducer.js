@@ -1,6 +1,6 @@
 const initialState = {
   loading: false,
-  tokenCount: 500,
+  tokenCount: 501,
   cost: 0,
   error: false,
   errorMsg: "",
